@@ -72,6 +72,7 @@ crashlytics-build.properties
 #
 # VISUAL STUDIO CODE
 #
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
